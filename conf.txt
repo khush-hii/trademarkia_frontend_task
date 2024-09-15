@@ -1,0 +1,4 @@
+npx create-next-app@latest my-frontend-task --typescript
+cd my-frontend-task
+npm install -D tailwindcss postcss autoprefixer
+npx tailwindcss init -p
