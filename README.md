@@ -1,5 +1,5 @@
-## Trademark Search Frontend Application
-21BKT0060 Khushi Mittal
+## Frontend Application
+
 
 This project is a frontend application built with Next.js and TailwindCSS. The purpose of the application is to replicate the functionality and design of the Trademarkia search page, featuring a search bar, filters, and API integration to display trademark search results.
 
